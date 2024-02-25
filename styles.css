@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html{
+    margin: 0;
+}
+
+#header{
+    background-color: black;
+}
+
+section > h1{
+    text-align: center;
+    color: azure;
+
+}
+section{
+    background-color: burlywood;
+}
+a{
+    color: darkorange;
+}
+
+a:visited{
+    color: white;
+}
+
+#navigation{
+    background-color: blue;
+    height: 40px;
+}
+
+#piclink:visited{
+    color: brown;
+}
+
+div{
+    display: block;
+    width: 300px;
+    margin: auto;
+}
